@@ -44,10 +44,10 @@ orcid_username: 0000-0002-0268-7032
 # about_title: About Me (Use this to override about section title)
 about_profile_image: assets/img/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Currently studying at [University of Glasgow](https://www.gla.ac.uk) writing my thesis on anisotropic viscosity in the solar corona. I also play fiddle, make art using algorithms and mathematics, and dabble in mathematical modelling in cancer and oceanography.
+  Currently studying at [University of Glasgow](https://www.gla.ac.uk) writing my thesis on anisotropic viscosity in the solar corona. I also [play fiddle](https://youtu.be/KQpbE7oL_5c?t=4414), [make art](http://art.jamiejquinn.com) using algorithms and mathematics, and dabble in mathematical modelling in cancer and oceanography.
 
 # Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
+projects_title: Code Showcase #(Use this to override about projects section title)
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)

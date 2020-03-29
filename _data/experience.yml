@@ -8,17 +8,17 @@
     #Ensuring water security for future generations
   #description: | # this will include new lines to allow paragraphs
     #Description of role
-- layout: left
-  company: Freelance Tutor
-  #link: 
-  #job_title: Private Tutor
-  dates: 2013-Present
-  #quote: >
-    #quote
-  description: | # this will include new lines to allow paragraphs
-    - Taught students at a range of levels.
-    - Worked with disabled students.
-    - Organised online teaching through Zoom.
+#- layout: left
+  #company: Freelance Tutor
+  ##link: 
+  ##job_title: Private Tutor
+  #dates: 2013-Present
+  ##quote: >
+    ##quote
+  #description: | # this will include new lines to allow paragraphs
+    #- Taught students at a range of levels.
+    #- Worked with disabled students.
+    #- Organised online teaching through Zoom.
 #- layout: left
   #company: Freelance Musician
   ##link: 
@@ -61,10 +61,10 @@
       dates: 2016-2020
     - title: Graduate Teaching Assistant (Academic Writing)
       dates: 2018-2019
-    - title: Academic Intern (Theoretical Physics)
-      dates: 2014
-    - title: Teaching Intern (Physics)
-      dates: 2012
+    #- title: Academic Intern (Theoretical Physics)
+      #dates: 2014
+    #- title: Teaching Intern (Physics)
+      #dates: 2012
   #quote: >
     #quote
   description: | # this will include new lines to allow paragraphs
@@ -129,13 +129,13 @@
   description: | # this will include new lines to allow paragraphs
     - Designed web-scraping tools to populate ebook metadata.
     - Applied OCR technology to automate the processing of sensitive billing information.
-- layout: left
-  company: EQSN
-  link: https://www.iomart.com/iomart-group-aquires-eqsn-ltd
-  job_title: Software Development Intern
-  dates: 2011
-  #quote: >
-    #quote
-  description: | # this will include new lines to allow paragraphs
-    - Developed a piece of software to track the uptime of web-hosting servers and communicate this via an attached mobile phone.
-    #Description of role
+#- layout: left
+  #company: EQSN
+  #link: https://www.iomart.com/iomart-group-aquires-eqsn-ltd
+  #job_title: Software Development Intern
+  #dates: 2011
+  ##quote: >
+    ##quote
+  #description: | # this will include new lines to allow paragraphs
+    #- Developed a piece of software to track the uptime of web-hosting servers and communicate this via an attached mobile phone.
+    ##Description of role
