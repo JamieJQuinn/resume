@@ -1,0 +1,6 @@
+<div class="container grants-container">
+  <h3>{{ site.grants_title | default: "Grants" }}</h3>
+  {% for grant in site.data.grants %}
+    {% include {{ grant.layout | default: 'left' | append: ".html" }} item=grant %}
+  {% endfor %}
+</div>

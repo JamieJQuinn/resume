@@ -1,0 +1,88 @@
+# Site
+repository: jamiejquinn/resume
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Jamie Quinn
+title: Applied Mathematician
+email: jamiejquinn [at] jamiejquinn.com
+website: jamiejquinn.com
+
+darkmode: false
+
+# Social links
+twitter_username: jimjonquinn
+github_username:  jamiejquinn
+#stackoverflow_username: "00000001"
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
+instagram_username: jamiejquinn
+#linkedin_username: jekyll
+#xing_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#googleplus_username: +jekyll
+orcid_username: 0000-0002-0268-7032
+
+# Additional icon links
+#additional_links:
+#- title: Link name
+  #icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+  #url: Link url (eg. https://google.com)
+# - title: another link
+#   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: assets/img/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Currently studying at [University of Glasgow](https://www.gla.ac.uk) writing my thesis on anisotropic viscosity in the solar corona. I also play fiddle, make art using algorithms and mathematics, and dabble in mathematical modelling in cancer and oceanography.
+
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
+# More Section
+#more_title: Misc
+#more_content: | # this will include new lines to allow paragraphs
+  
+
+# Footer
+footer_show_references: true
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]

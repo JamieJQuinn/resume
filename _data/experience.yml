@@ -1,0 +1,141 @@
+# Experience template
+#- layout: left
+  #company: Hydroquo+
+  #link: http://hydroquo.com
+  #job_title: CTO
+  #dates: Since 2019
+  #quote: >
+    #Ensuring water security for future generations
+  #description: | # this will include new lines to allow paragraphs
+    #Description of role
+- layout: left
+  company: Freelance Tutor
+  #link: 
+  #job_title: Private Tutor
+  dates: 2013-Present
+  #quote: >
+    #quote
+  description: | # this will include new lines to allow paragraphs
+    - Taught students at a range of levels.
+    - Worked with disabled students.
+    - Organised online teaching through Zoom.
+#- layout: left
+  #company: Freelance Musician
+  ##link: 
+  ##job_title: Musician
+  #dates: 2014-Present
+  ##quote: >
+    ##quote
+  #description: | # this will include new lines to allow paragraphs
+    #- Organised ceilidhs, concerts and other events.
+    #- Recorded 
+- layout: left
+  company: Beatson Institute for Cancer Research
+  #link: 
+  job_title: Intern
+  dates: 2019-2020
+  description: | # this will include new lines to allow paragraphs
+    - Developed a novel mathematical model of the interaction between GFP-CRIB in the cytoplasm of a cell, and Rac in the membrane.
+    - Implemented the model numerically in both 2D and 3D using a finite-element method.
+
+- layout: left
+  company: University of Glasgow Students' Representative Council
+  link: https://www.glasgowstudent.net
+  jobs:
+    - title: Postgraduate Convenor, Research
+      dates: 2019-2020
+    - title: Postgraduate Convenor, Science and Engineering
+      dates: 2018-2019
+  #quote: >
+    #quote
+  description: | # this will include new lines to allow paragraphs
+    - Elected to represent over 2000 students at the highest level of the university.
+    - Guided the overhaul of representation structures at the postgraduate level.
+    - Drafted a new policy document covering the wellfare of GTAs as part of the GTA Working Group.
+    - Represented the SRC at the Global Student Leadership Forum in Chengdu, China
+- layout: left
+  company: University of Glasgow
+  link: https://www.gla.ac.uk
+  jobs:
+    - title: Graduate Teaching Assistant (Mathematics)
+      dates: 2016-2020
+    - title: Graduate Teaching Assistant (Academic Writing)
+      dates: 2018-2019
+    - title: Academic Intern (Theoretical Physics)
+      dates: 2014
+    - title: Teaching Intern (Physics)
+      dates: 2012
+  #quote: >
+    #quote
+  description: | # this will include new lines to allow paragraphs
+    - Created teaching materials for a 4th year numerical methods course and a conversion to physics course.
+    - Lectured in academic writing.
+    - Marked exams, essays, assignments and coursework.
+    - Ran tutorials on academic writing, applied mathematics, numerical methods, calculus and linear algebra.
+    - Mentored students in conference skills.
+- layout: left
+  company: Glasgow Guardian
+  link: https://glasgowguardian.co.uk
+  job_title: Editor, Science and Technology
+  dates: 2018-2019
+  #quote: >
+    #quote
+  description: | # this will include new lines to allow paragraphs
+    - Established the Science and Technology section.
+    - Managed a team of writers.
+    - Edited and proofread articles.
+    - Pitched potential articles at weekly meeting.
+    - Conducted interviews.
+- layout: left
+  company: Pint of Science
+  link: https://pintofscience.co.uk/creativereactions
+  job_title: Team Leader, Creative Reactions
+  dates: 2018
+  #quote: >
+    #quote
+  description: | # this will include new lines to allow paragraphs
+    - Managed a team of four.
+    - Led the organisation and marketing of a popup art exhibition.
+- layout: left
+  company: ICHEC, Dublin
+  link: https://www.ichec.ie
+  job_title: High Performance Computing Intern
+  dates: 2017
+  #quote: >
+    #quote
+  description: | # this will include new lines to allow paragraphs
+    - Developed a new computer graphics algorithm based on radiosity.
+    - Implemented the algortihm in C++ using OpenGL.
+    - Published blog posts and produced videos for outreach.
+- layout: left
+  company: Find a Player
+  link: https://www.findaplayer.com
+  job_title: Software Development Intern
+  dates: 2016
+  #quote: >
+    #quote
+  description: | # this will include new lines to allow paragraphs
+    - Developed on a back-end API written in Ruby and Elixir for a mobile-based social app.
+    - Managed databases through SQL.
+    - Maintained continuous integration automation.
+    - Administered AWS configuration using Terraform.
+- layout: left
+  company: Freelance Software Developer
+  #link: https://pintofscience.co.uk/creativereactions/
+  #job_title: Software Developer
+  dates: 2015-2016
+  #quote: >
+    #quote
+  description: | # this will include new lines to allow paragraphs
+    - Designed web-scraping tools to populate ebook metadata.
+    - Applied OCR technology to automate the processing of sensitive billing information.
+- layout: left
+  company: EQSN
+  link: https://www.iomart.com/iomart-group-aquires-eqsn-ltd
+  job_title: Software Development Intern
+  dates: 2011
+  #quote: >
+    #quote
+  description: | # this will include new lines to allow paragraphs
+    - Developed a piece of software to track the uptime of web-hosting servers and communicate this via an attached mobile phone.
+    #Description of role

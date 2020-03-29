@@ -1,0 +1,85 @@
+# Presentation template
+- layout: top
+  name: "The effect of anisotropic viscosity on the nonlinear kink instability"
+  job_title: "Solar and Magnetospheric Theory Group Seminar, St. Andrews"
+  dates: September 2019
+  #quote: >
+  description: | # this will include new lines to allow paragraphs
+    On applications of anisotropic viscosity to the kink instability.
+- layout: top
+  name: "Stairway to Haline"
+  job_title: "International High Performance Computing Summer School, Kobe, Japan"
+  dates: July 2019
+  #quote: >
+  description: | # this will include new lines to allow paragraphs
+    On thermohaline staircases and simulating them using a double-diffusive convection code.
+- layout: top
+  name: "An Implementation of the Switching Model of Anisotropic Viscosity in Lare3d"
+  job_title: "NAM, Lancaster"
+  dates: July 2019
+  #quote: >
+  description: | # this will include new lines to allow paragraphs
+    On implementing the switching model of anisotropic viscosity in the code Lare3d and applying it to stressed magnetic null points and the kink instability.
+- layout: top
+  name: "The Effect of Anisotropic Viscosity on the Nonlinear Kink Instability"
+  job_title: "LOOPS19, St. Andrews"
+  dates: June 2019
+  #quote: >
+  description: | # this will include new lines to allow paragraphs
+    **Poster** on the application of anisotropic viscosity to the kink instability and implications for coronal heating. This presentation was given to an audience experienced in coronal physics.
+- layout: top
+  name: "Applications of an Anisotropic Viscous Stress Tensor to Coronal Heating"
+  job_title: "University of Strathclyde SIAM-IMA Conference"
+  dates: April 2019
+  #quote: >
+  description: | # this will include new lines to allow paragraphs
+    On the application of anisotropic viscosity to the kink instability and implications for coronal heating. The presentation was given to an audience without a background in physics.
+- layout: top
+  name: "Ansiotropic Viscosity: How Runny is the Sun?"
+  job_title: "3 Minute Thesis"
+  dates: February 2019
+  #quote: >
+  description: | # this will include new lines to allow paragraphs
+    A lay description of my research given in precisely three minutes for the 3 minute thesis competition.
+- layout: top
+  name: "UofG: Students' Representative Council"
+  job_title: "Global Student Leadership Forum, Cheng Du, China"
+  dates: November 2018
+  #quote: >
+  description: | # this will include new lines to allow paragraphs
+    On how the Student Representative Council at UofG functions and ensures representation is available to every student.
+- layout: top
+  name: "Hot Stuff: An Introduction to Magnetohydrodynamics"
+  job_title: University of Glasgow Postgraduate Seminar
+  dates: August 2018
+  #quote: >
+  description: | # this will include new lines to allow paragraphs
+    Introducing the mathematically interesting theorems (e.g. Alfvén's frozen in theorem) of magnetohydrodynamics to pure mathematics researchers.
+- layout: top
+  name: "The Mathematics of Synthesis"
+  job_title: University of Glasgow Postgraduate Seminar
+  dates: March 2018
+  #quote: >
+  description: | # this will include new lines to allow paragraphs
+    On the mathematical underpinnings of frequency modulation, additive and subtractive synthesis in a musical context. This involved writing a [bytebeat](https://www.vice.com/en_uk/article/qkzakx/meet-bytebeat-a-brand-new-electronic-music-genre) synthesizer and creating a violin sound from scratch on my MicroKorg.
+- layout: top
+  name: "Radiosity: Global Illumination in Computer Graphics"
+  job_title: University of Glasgow Postgraduate Seminar
+  dates: August 2017
+  #quote: >
+  description: | # this will include new lines to allow paragraphs
+    On the derivation of the equations of radiosity (i.e. how light bounces around a physical space) and how they can be encoded into an algorithm for photorealistic rendering computer graphics.
+- layout: top
+  name: "Anisotropic Viscosity in MHD: Heating Profiles About Coronal Null Points"
+  job_title: UKMHD, Durham
+  dates: March 2017
+  #quote: >
+  description: | # this will include new lines to allow paragraphs
+    **Poster** on my work applying anisotropic viscosity to null points which are twisted at their footpoints. This won the early career researcher outstanding poster award.
+- layout: top
+  name: "Mathematics in Art"
+  job_title: University of Glasgow Postgraduate Seminar
+  dates: February 2017
+  #quote: >
+  description: | # this will include new lines to allow paragraphs
+    On various kinds of mathematical and generative art, including regex art, fractals and Lorenz systems.

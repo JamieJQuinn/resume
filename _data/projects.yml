@@ -1,0 +1,31 @@
+# Project template
+- layout: left
+  name: Double-Diffusive Convection
+  link: https://github.com/jamiejquinn/2D-Convection
+  #github: jamiejquinn/2D-Convection
+  quote: >
+    A 2D pseudo-spectral code designed to simulate double-diffusive phenomena
+  description: | # this will include new lines to allow paragraphs
+    Following the ideas of Glatzmaier in *Introduction to Modeling Convection in Planets and Stars* this is a code written in C++ designed as an educational project to explore different numerical methods and techniques. The long-term goal is to efficiently simulate thermohaline staircase dynamics. Currently implemented are:
+      - Periodic and impermeable boundary conditions
+      - GPU parallelisation using non-periodic boundary conditions
+      - 2nd order finite-difference expansion vertically
+      - Fully spectral expansion horizontally
+      - Spectral-transform method for nonlinear terms
+      - Adams-Bashforth explicit time integration scheme
+      - CFL condition-based adaptive timestepping
+- layout: left
+  name: SDF-Tool
+  link: https://github.com/jamiejquinn/sdf-tool
+  #github: jamiejquinn/2D-Convection
+  quote: >
+    An SDF file format manipulation tool
+  description: | # this will include new lines to allow paragraphs
+    When visualising data stored in SDF files outputted from the numerical magnetohydrodynamics code Lare3d, it's very useful to be able to remove parts of the computational domain that have no use to the visualisation. SDF-Tool allows users to do just that, allowing the manipulation of SDF files to reduce file size and improve efficiency of visualisation pipelines. Written in Fortran.
+- layout: left
+  name: GFP Simulator 9000
+  link: https://github.com/JamieJQuinn/gfp-simulator-9000
+  quote: >
+    Simulating GFP-CRIB molecules within cancer cells
+  description: | # this will include new lines to allow paragraphs
+    This is a finite-element code designed to simulate the complex inverse problem of the interaction between GFP-CRIB in the cytoplasm and Rac in the membrane. Both 2D and 3D cells are simulated. The code is written in Python and leverages the procedural meshing and finite-element matrix construction of the library [PyMesh](https://pymesh.readthedocs.io/en/latest/).

@@ -1,0 +1,21 @@
+# Project template
+- layout: top
+  name: "The effect of anisotropic viscosity on the Kelvin-Helmholtz instability in a null point"
+  #link: https://doi.org/10.1016/j.cnsns.2019.105131
+  dates: In prep.
+  description: | # this will include new lines to allow paragraphs
+    Quinn, J. & MacTaggart, D.
+
+- layout: top
+  name: "The effect of anisotropic viscosity on the nonlinear MHD kink instability"
+  link: https://doi.org/10.1016/j.cnsns.2019.105131
+  dates: 2020
+  description: | # this will include new lines to allow paragraphs
+    Quinn, J., MacTaggart, D., & Simitev, R. D.
+
+- layout: top
+  name: "Braginskii magnetohydrodynamics for arbitrary magnetic topologies: coronal applications"
+  link: https://doi.org/10.1017/jfm.2017.463
+  dates: 2017
+  description: | # this will include new lines to allow paragraphs
+    MacTaggart, D., Vergori, L., & Quinn, J.

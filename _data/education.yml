@@ -1,0 +1,31 @@
+# Education Template
+- layout: left
+  name: University of Glasgow
+  dates: 2016-Present
+  qualification: PhD, Applied Mathematics
+  #quote: >
+    #Thesis: Anisotropic Viscosity and Astrophysical Applications
+  description: | # this will include new lines to allow paragraphs
+    My PhD research involved adding a novel model of viscosity to the magnetohydrodynamic equations and studying the effect on stressed magnetic null points, the Kelvin-Helomholtz instability in a magnetic null point and the kink instability in a coronal loop. These magnetic structures and instabilities are important pieces of the [coronal heating problem](https://en.wikipedia.org/wiki/Corona#Coronal_heating_problem) and understanding the nature of viscosity is important for understanding precisely how energy is transferred into heat in the corona. My thesis title is **Anisotropic Viscosity and Astrophysical Applications**.
+
+    At UKMHD 2017 I was awarded the Early Career Researcher Outstanding Poster prize.
+
+    I've attended the following training programs:
+      - Introductory Solar System Plasma Physics Summer School, *St. Andrews, Scotland*, 2016
+      - Summer of HPC Training, *Ostrava, Czech Republic*, 2017
+      - Advanced MHD Summer School, *Udine, Italy*, 2018
+      - International High Performance Summer School, *Kobe, Japan*, 2019
+      - FLOW: Machine Learning in Fluid Dyanamics, *Stockholm, Sweden*, 2019
+
+
+
+- layout: left
+  name: University of Glasgow
+  dates: 2010-2016
+  qualification: MSci, Mathematics and Physics (First)
+  #quote: >
+    #Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    Studying both mathematics and physics presented me with the opportunity to explore different fields of study and areas of research. Drawing on my strengths in numerical simulation, mathematical modelling and fluid dynamics, I excelled, being awarded the MacKay Smith prize for excellence in physics. I wrote two dissertations as part of my degree:
+      - Masters Dissertation: *Double-Diffusive Convection*
+      - Honours Dissertation: *2D Topological Quantum Field Theories*

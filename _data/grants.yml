@@ -1,0 +1,15 @@
+# Project template
+- layout: top
+  name: Summer of High Performance Computing Internship
+  description: | # this will include new lines to allow paragraphs
+    £6k, estimated
+
+- layout: top
+  name: International High Performance Summer School
+  description: | # this will include new lines to allow paragraphs
+    £2k, estimated
+
+- layout: top
+  name: UofG Science and Engineering Graduate School Innovation Fund
+  description: | # this will include new lines to allow paragraphs
+    £6.5k
